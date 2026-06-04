@@ -1,6 +1,6 @@
 {
-    "name": "pry_parcial_guerradiana",
-    "short_name": "pry_parcial_guerradiana",
+    "name": "pry_consumo_api",
+    "short_name": "pry_consumo_api",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
